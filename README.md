@@ -25,7 +25,7 @@ console.log(author);
 ```sh
 npm install && npm test
 ```
-
+```
 > strip-email@1.0.0 test /Users/mark/projects/strip-email
 > node test/test.js
 TAP version 13
