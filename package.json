@@ -1,0 +1,29 @@
+{
+  "devDependencies": {
+    "tape": "4.2.0"
+  },
+  "name": "strip-email",
+  "version": "1.0.0",
+  "description": "Strip email addresses from strings",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markhuge/strip-email.git"
+  },
+  "keywords": [
+    "strip",
+    "email"
+  ],
+  "author": "Mark Wilkerson <mark@markwilkerson.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markhuge/strip-email/issues"
+  },
+  "homepage": "https://github.com/markhuge/strip-email#readme"
+}
